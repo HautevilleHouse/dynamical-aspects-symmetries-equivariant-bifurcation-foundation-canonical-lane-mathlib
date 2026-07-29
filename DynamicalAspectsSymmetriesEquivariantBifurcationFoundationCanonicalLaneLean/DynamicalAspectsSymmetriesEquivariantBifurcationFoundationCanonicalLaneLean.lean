@@ -1,0 +1,9 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace DynamicalAspectsSymmetriesEquivariantBifurcationFoundationCanonicalLaneLean
+
+-- This module is the root of the DynamicalAspectsSymmetriesEquivariantBifurcationFoundationCanonicalLaneLean Lean proof package.
+
+end DynamicalAspectsSymmetriesEquivariantBifurcationFoundationCanonicalLaneLean
+end HautevilleHouse
